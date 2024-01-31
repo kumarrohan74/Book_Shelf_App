@@ -1,3 +1,13 @@
+Database using from phpMyAdmin and below is the snapshot for the table data i am using in this project.
+<br />
+<br />
+<br />
+<img width="884" alt="Screenshot 2024-01-31 at 1 19 46 PM" src="https://github.com/kumarrohan74/Book_Shelf_App/assets/16288342/3900e7ee-7363-4d22-91e9-f57d266e911c">
+
+Need to connect to SQL DB first where all these above fields will be present.
+<br />
+<br />
+<br />
 Step1: Run the client by cd/client and then run "npm start". <br />
 Step2: Run the server by cd/server and then run "npm run dev".<br />
 Step3: Open "http://localhost:3000/" on the browser which will display below web page.<br />
