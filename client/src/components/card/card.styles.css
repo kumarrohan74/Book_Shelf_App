@@ -1,0 +1,23 @@
+.card-container {
+    height: 450px;
+    width: 450px;
+    border: 1px solid black;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.details-container {
+    text-align: center;
+    margin-top: 20px;
+}
